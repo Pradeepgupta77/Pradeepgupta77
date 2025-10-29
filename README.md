@@ -1,5 +1,5 @@
 <!-- 👋 Hi, I’m Pradeep Gupta -->
-<h1 align="center">Hi 👋, I'm Pradeep Gupta</h1>
+<h1 align="center">Hi 👋, I’m Pradeep Gupta</h1>
 <h3 align="center">🚀 UX/UI & Web Developer | Frontend Specialist | React & WordPress Expert</h3>
 
 <p align="center">
@@ -19,23 +19,23 @@ Whether it’s **frontend animations**, **custom WordPress themes**, or **Shopif
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,react,php,wordpress,shopify,vscode,git,github" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pg-pradeepgupta&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pradeepgupta77&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pg-pradeepgupta&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradeepgupta77&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🔗 Connect With Me
+### 🔗 Connect With Me  
 <p align="center">
   <a href="mailto:pg.pradeepgupta77@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -53,11 +53,11 @@ Whether it’s **frontend animations**, **custom WordPress themes**, or **Shopif
 
 ---
 
-### ⚡ Fun Fact
+### ⚡ Fun Fact  
 > “A great website is where design and logic meet — and that’s exactly where I love to work.”
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PG-PradeepGupta/PG-PradeepGupta/main/assets/footer.gif" alt="footer gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/Pradeepgupta77/Pradeepgupta77/main/assets/footer.gif" alt="footer gif" width="300"/>
 </p>
