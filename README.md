@@ -9,11 +9,15 @@
 ---
 
 ### 🧑‍💻 About Me  
-I’m a **UX/UI and Web Developer** with **3+ years of experience** designing and building responsive, user-friendly, and high-performance websites.  
-I specialize in **Figma, HTML, CSS, Tailwind CSS, JavaScript, React.js, PHP**, and **CMS platforms like WordPress and Shopify**.  
+I’m a Web Developer and UX/UI Designer with over 3 years of experience creating responsive, user-friendly, and high-performance websites.
 
-I love creating **intuitive designs**, writing **clean, efficient code**, and developing **digital solutions that help businesses grow**.  
-Whether it’s **frontend animations**, **custom WordPress themes**, or **Shopify stores**, I aim to blend creativity with functionality.  
+I design and build complete digital solutions using PHP, JavaScript, WordPress, React.js, HTML, CSS, Tailwind CSS, Webflow, Shopify and for designing I use Figma, Canva and Photoshop. My focus is on turning ideas into functional designs that look great and perform smoothly across all devices.
+
+I’ve worked on a range of projects, including corporate sites, e-commerce platforms, and landing pages. My work centers on usability, speed, and clean design backed by solid code.
+
+I care about details that improve performance and user experience. Whether it’s building from scratch or improving an existing site, I focus on results that make an impact.
+
+When I’m not coding or designing, I explore new design systems, test frontend frameworks, and learn tools that push creative and technical boundaries.
 
 🌍 Check out my portfolio → [**devpradeep.in**](https://www.devpradeep.in/)
 
