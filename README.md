@@ -55,6 +55,9 @@ When I’m not coding or designing, I explore new design systems, test frontend 
   <a href="https://www.devpradeep.in/" target="_blank">
     <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
+  <a href="https://x.com/pradeep00972052" target="_blank">
+    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=X&logoColor=white"/>
+  </a>
 </p>
 
 ---
