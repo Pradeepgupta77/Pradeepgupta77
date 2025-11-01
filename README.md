@@ -25,7 +25,7 @@ When I’m not coding or designing, I explore new design systems, test frontend 
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,react,php,wordpress,shopify,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,js,react,php,wordpress,webflow,vscode,git,github" />
 </p>
 
 ---
